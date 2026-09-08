@@ -1,0 +1,11 @@
+# Data
+data/*.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS
+.DS_Store
